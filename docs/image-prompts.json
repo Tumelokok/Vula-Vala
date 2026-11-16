@@ -1,0 +1,77 @@
+{
+  "generated_on": "2026-11-16",
+  "mode": "built-in image_gen",
+  "note": "Prompts describe the selected final outputs. Image generation is stochastic; replay does not guarantee identical pixels. Dark and monochrome variants were regenerated for cleaner presentation.",
+  "prompts": [
+    {
+      "id": "logo-primary",
+      "tool": "built-in image_gen",
+      "transparent_background": true,
+      "prompt": "Use case: logo-brand. Create a polished primary stacked logo for Vula Vala, a South African water infrastructure intelligence platform. A single strong geometric emblem: a human hand ABOVE a water tap, fingers gently gripping the tap cross handle as if opening or closing it, with ONE distinct water droplet directly below the downward-facing spout. The hand must clearly operate the tap rather than catch the water. Flat vector-like geometry, restrained rounded edges, confident substantial strokes and carefully designed negative space, recognisable at small size. Deep navy #102F3A tap and hand; teal #087F8C droplet. Below the emblem put the exact wordmark \"VULA VALA\" in precise modern uppercase sans serif with balanced spacing. Square canvas, emblem centered, generous clear space, truly transparent background. No gradients, shadows, mockup, extra symbols, border, slogan, or watermark. Render a single finished mark, not a concept board."
+    },
+    {
+      "id": "hero-water-network",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "prompt": "Use case: stylized-concept. Asset type: wide landscape hero artwork for Vula Vala, a water infrastructure intelligence platform initially focused on South Africa. Premium editorial architectural illustration: an imagined contemporary South African neighbourhood, low brick homes, a modest municipal water tower, trees and rolling inland hills. An elegant cutaway through the ground shows a simplified coherent network of teal water pipes connecting homes and water storage; a few small amber points suggest monitoring locations, not measured incidents. Restrained sophisticated 3D architectural miniature with tactile matte surfaces, warm limestone, deep navy, teal water accents, natural soft morning light. Wide 16:9 composition, detailed infrastructure on right two thirds, quiet pale warm sky/negative space at upper left for later headline placement. Human-scale optimistic engineering, no sci-fi holograms. No text, numbers, logos, flags, labels, UI, or actual mapped location. Conceptual artwork, not a technically exact engineering diagram."
+    },
+    {
+      "id": "community-reporting",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial image for the community incident-reporting section of Vula Vala. A fictional adult Black South African woman in everyday clothing standing safely on a residential pavement, holding a smartphone to photograph a modest water leak along the curb a few metres away. Wide environmental composition with a clearly visible wet patch and small stream at curb, neat brick houses and leafy Highveld neighbourhood in background, everyday dignity and agency. Show phone from behind, no readable screen. Natural late-afternoon light, restrained teal and warm earth colours, convincing documentary photography, realistic anatomy and hands. No dramatic flood, distress, poverty stereotype, children, municipal insignia, logos, text or watermark. This is illustrative fictional imagery, no identifiable real person or location. Landscape 3:2."
+    },
+    {
+      "id": "field-maintenance",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "prompt": "Use case: photorealistic-natural. Landscape 3:2 editorial image for Vula Vala water infrastructure maintenance. Two fictional adult South African water technicians, one woman and one man, wearing navy workwear, reflective safety vests, gloves, safety boots and hard hats, inspecting an above-ground blue valve assembly at a modest municipal pump station. One checks the valve while the other holds a rugged tablet viewed from the back. Equipment visually plausible with flanged pipe joints; tidy work area and safe standing positions, no excavation. Respectful competent teamwork. Natural daylight, restrained navy, teal and warm stone palette, authentic textures, professional documentary photography. No readable screens, text, logos, insignia, watermark or identifiable real facility. Not evidence of a real deployment."
+    },
+    {
+      "id": "sensor-monitoring",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "prompt": "Use case: product-mockup. Landscape 3:2 editorial close-up for the future sensor integration module of Vula Vala. A plausible unbranded industrial water pressure transmitter attached through a threaded metal fitting to a teal-blue flanged water pipe, with a small weatherproof telemetry box securely mounted nearby and neatly routed conduit. Focus on robust engineered materials, bolts, brushed stainless steel and painted metal, blurred clean pump-room background. Soft directional daylight, deep navy shadows, teal and warm neutral palette. Premium technically grounded product photograph, no sci-fi effects, holograms, wireless wave icons, displays, text, logos, labels or watermark. Concept hardware only, not an actual Vula Vala device. Visually simple and uncluttered."
+    },
+    {
+      "id": "operations-planning",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "prompt": "Use case: photorealistic-natural. Landscape 3:2 editorial image for Vula Vala evidence-based water maintenance planning. Three fictional adult South African municipal engineering colleagues of varied genders collaborating at a desk in a modest bright modern operations office. An engineer points to a large abstract printed street-network map with a few simple coloured markers while a colleague takes notes; a closed laptop and rolled engineering plans nearby. No readable lettering, no detailed coordinates, no visible metrics or live dashboards. Candid professional teamwork, dignified realistic people, convincing natural hands, soft window light, navy work shirts and subtle teal accents with warm wood. No futuristic control room, government insignia, logos, text or watermark. Illustrative scene, not actual customers."
+    },
+    {
+      "id": "geospatial-intelligence",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "prompt": "Use case: stylized-concept. Landscape 16:9 editorial artwork for Vula Vala geographic incident intelligence, matching a sophisticated architectural miniature style. Elevated oblique view of an entirely fictional South African urban neighbourhood: small warm limestone and brick buildings, trees, legible connected streets. A restrained teal pipe-network layer follows the street layout, with three small amber upright location markers on distinct junctions and subtle concentric rings around one recurring trouble location. Dark navy surround and a clean cutout city tile with tactile matte surfaces, soft studio lighting, precise architectural craft. Clear composition with breathing room. No text, numbers, dashboards, actual geography, boundary claims, logos or watermark. This is a conceptual illustration, never a real incident map or engineering schematic."
+    },
+    {
+      "id": "logo-horizontal",
+      "tool": "built-in image_gen",
+      "transparent_background": true,
+      "reference": "assets/branding/logo-primary.png",
+      "prompt": "Use case: precise-object-edit. Edit the provided Vula Vala primary logo into one horizontal lockup on a truly transparent wide canvas. Preserve the same navy silhouette hand operating the cross handle from ABOVE, the same tap facing right, and one teal droplet under its spout. Move the exact wordmark \"VULA VALA\" to the right of the emblem in one line with generous separation and a bold modern sans serif. Emblem and wordmark optically balanced. Preserve the emblem geometry and navy/teal identity. Flat solid colour, no texture, gradient, mockup, background, extra text, shadow or border. Single logo only."
+    },
+    {
+      "id": "logo-icon",
+      "tool": "built-in image_gen",
+      "transparent_background": true,
+      "reference": "assets/branding/logo-primary.png",
+      "prompt": "Use case: precise-object-edit. Edit the provided Vula Vala primary logo into an icon-only mark. Remove the wordmark completely. Preserve the exact emblem silhouette: navy hand ABOVE and gripping the cross handle as if turning it, navy tap pointing right, ONE teal water droplet directly below its spout. Center the emblem on a square truly transparent canvas with generous clear space. Flat solid colour, navy #102F3A and teal #087F8C, no gradients or textures. No letters, added shapes, border, shadow, background or mockup. Keep all emblem geometry faithful to the reference."
+    },
+    {
+      "id": "logo-dark",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "reference": "assets/branding/logo-primary.png",
+      "prompt": "Use case: precise-object-edit. Using the attached original Vula Vala logo as reference, produce a pristine dark-background presentation variant. Preserve the exact hand ABOVE and operating the cross handle, tap, single droplet, and exact wordmark \"VULA VALA\" beneath it. Hand, tap and wordmark are clean solid white; droplet is aqua #4DD9CF. Put the entire logo on a solid opaque deep navy #102F3A background. Crisp flawless geometric silhouettes with clean negative spaces between fingers and handle. Remove all speckles, texture, grunge, outlines and stray pixels. No gradients, no shadows, no extra text. Square canvas, same balanced original composition with comfortable margins. This variant intentionally has an opaque navy background."
+    },
+    {
+      "id": "logo-monochrome",
+      "tool": "built-in image_gen",
+      "transparent_background": false,
+      "reference": "assets/branding/logo-primary.png",
+      "prompt": "Use case: precise-object-edit. Create a perfectly clean black-on-white monochrome presentation of the attached Vula Vala primary logo. Preserve its exact hand ABOVE and gripping the tap handle, right-facing tap, single droplet below the spout, and stacked wordmark \"VULA VALA\". All emblem elements and letters are solid black #000000 on an opaque pure white #FFFFFF canvas. Preserve geometry and spacing. No grey fills, gradients, texture, outlines, speckles or shadows. Clean professional flat logo, square canvas, comfortable margins. This variant intentionally has an opaque white background."
+    }
+  ]
+}
